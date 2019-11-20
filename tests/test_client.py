@@ -12,7 +12,6 @@ CLIENT_CREDS = {
 }
 
 
-
 class ClientTest(TestCase):
 
     def test_client_init1(self):
